@@ -32,7 +32,7 @@ Você precisa do `NODE`, `NPM` instalados globalmente em sua máquina.
 
 ### Autor | Contato
 
-**Abel Gomes**
+**Abel Gomes Costa**
 
 ```
 costaevangelista@live.com
